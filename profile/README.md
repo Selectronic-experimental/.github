@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 [^1]
 
+
+[^1]: This is a public organisation readme.
 <!--
 
 **Here are some ideas to get you started:**
